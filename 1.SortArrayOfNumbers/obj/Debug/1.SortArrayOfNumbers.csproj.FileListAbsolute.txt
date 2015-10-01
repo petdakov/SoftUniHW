@@ -1,0 +1,6 @@
+D:\Нова папка (3)\Original Homework\Arrays, Lists, Stacks, Queues\1.SortArrayOfNumbers\bin\Debug\1.SortArrayOfNumbers.exe.config
+D:\Нова папка (3)\Original Homework\Arrays, Lists, Stacks, Queues\1.SortArrayOfNumbers\bin\Debug\1.SortArrayOfNumbers.exe
+D:\Нова папка (3)\Original Homework\Arrays, Lists, Stacks, Queues\1.SortArrayOfNumbers\bin\Debug\1.SortArrayOfNumbers.pdb
+D:\Нова папка (3)\Original Homework\Arrays, Lists, Stacks, Queues\1.SortArrayOfNumbers\obj\Debug\1.SortArrayOfNumbers.csprojResolveAssemblyReference.cache
+D:\Нова папка (3)\Original Homework\Arrays, Lists, Stacks, Queues\1.SortArrayOfNumbers\obj\Debug\1.SortArrayOfNumbers.exe
+D:\Нова папка (3)\Original Homework\Arrays, Lists, Stacks, Queues\1.SortArrayOfNumbers\obj\Debug\1.SortArrayOfNumbers.pdb
